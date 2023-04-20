@@ -1,4 +1,5 @@
 Food Mood Recommender
+
 This is a Django-based web application that recommends food based on the user's current mood. The app uses natural language processing techniques to identify the user's mood based on the text input they provide, and then suggests a meal that matches that mood.
 
 Features
